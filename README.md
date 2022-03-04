@@ -1,3 +1,5 @@
+[![GitHub Views](https://komarev.com/ghpvc/?username=cloudmlops&color=FAC151)][1]
+
 ### Hi there 👋
 
 <!--
