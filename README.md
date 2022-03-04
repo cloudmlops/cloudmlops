@@ -1,4 +1,4 @@
-[![GitHub Views](https://komarev.com/ghpvc/?username=cloudmlops&color=FAC151)][1]
+![](https://komarev.com/ghpvc/?username=cloudmlops&label=PROFILE+VIEWS)
 
 ### Hi there 👋
 
